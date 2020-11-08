@@ -1,0 +1,2 @@
+# Operating-System1
+One of the functions of operating-system is manage the computer's resources, such as the central processing unit, memory, disk drives, and printers. The first listed function, managing the computer's resources, is taken care of without the user being aware of the details. Furthermore, all input and output operations, although invoked by an applications program, are actually carried out by the operating system. 
